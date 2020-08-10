@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-08-08T09:11:50 EDT" name="Suite" finished-at="2020-08-08T09:12:11 EDT" duration-ms="21317">
+    <groups>
+    </groups>
+    <test started-at="2020-08-08T09:11:50 EDT" name="Test" finished-at="2020-08-08T09:12:11 EDT" duration-ms="21317">
+      <class name="SeleniumGrid.Grid.SeleniumTrial">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumGrid.Grid.SeleniumTrial@3d121db3]" started-at="2020-08-08T09:11:50 EDT" name="setUp" finished-at="2020-08-08T09:11:57 EDT" duration-ms="6964" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="googleTitle()[pri:1, instance:SeleniumGrid.Grid.SeleniumTrial@3d121db3]" started-at="2020-08-08T09:11:57 EDT" name="googleTitle" finished-at="2020-08-08T09:11:57 EDT" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumGrid.Grid.SeleniumTrial@3d121db3]" started-at="2020-08-08T09:11:57 EDT" name="tearDown" finished-at="2020-08-08T09:11:57 EDT" duration-ms="88" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumGrid.Grid.SeleniumTrial@3d121db3]" started-at="2020-08-08T09:11:57 EDT" name="setUp" finished-at="2020-08-08T09:12:04 EDT" duration-ms="6777" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="searchInput()[pri:2, instance:SeleniumGrid.Grid.SeleniumTrial@3d121db3]" started-at="2020-08-08T09:12:04 EDT" name="searchInput" finished-at="2020-08-08T09:12:04 EDT" duration-ms="95" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchInput -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumGrid.Grid.SeleniumTrial@3d121db3]" started-at="2020-08-08T09:12:04 EDT" name="tearDown" finished-at="2020-08-08T09:12:04 EDT" duration-ms="112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumGrid.Grid.SeleniumTrial@3d121db3]" started-at="2020-08-08T09:12:04 EDT" name="setUp" finished-at="2020-08-08T09:12:11 EDT" duration-ms="6397" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="searchOutput()[pri:3, instance:SeleniumGrid.Grid.SeleniumTrial@3d121db3]" started-at="2020-08-08T09:12:11 EDT" name="searchOutput" finished-at="2020-08-08T09:12:11 EDT" duration-ms="74" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchOutput -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumGrid.Grid.SeleniumTrial@3d121db3]" started-at="2020-08-08T09:12:11 EDT" name="tearDown" finished-at="2020-08-08T09:12:11 EDT" duration-ms="87" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumGrid.Grid.SeleniumTrial -->
+      <class name="SeleniumGrid.Grid.SeleniumGridGeko$SeleniumTrial">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumGrid.Grid.SeleniumGridGeko$SeleniumTrial@16e7dcfd]" started-at="2020-08-08T09:11:50 EDT" name="setUp" finished-at="2020-08-08T09:11:56 EDT" duration-ms="5963" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="googleTitle()[pri:1, instance:SeleniumGrid.Grid.SeleniumGridGeko$SeleniumTrial@16e7dcfd]" started-at="2020-08-08T09:11:56 EDT" name="googleTitle" finished-at="2020-08-08T09:11:56 EDT" duration-ms="64" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumGrid.Grid.SeleniumGridGeko$SeleniumTrial@16e7dcfd]" started-at="2020-08-08T09:11:56 EDT" name="tearDown" finished-at="2020-08-08T09:11:57 EDT" duration-ms="1179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumGrid.Grid.SeleniumGridGeko$SeleniumTrial@16e7dcfd]" started-at="2020-08-08T09:11:57 EDT" name="setUp" finished-at="2020-08-08T09:12:03 EDT" duration-ms="6338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="searchInput()[pri:2, instance:SeleniumGrid.Grid.SeleniumGridGeko$SeleniumTrial@16e7dcfd]" started-at="2020-08-08T09:12:03 EDT" name="searchInput" finished-at="2020-08-08T09:12:03 EDT" duration-ms="213" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchInput -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumGrid.Grid.SeleniumGridGeko$SeleniumTrial@16e7dcfd]" started-at="2020-08-08T09:12:03 EDT" name="tearDown" finished-at="2020-08-08T09:12:04 EDT" duration-ms="958" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumGrid.Grid.SeleniumGridGeko$SeleniumTrial@16e7dcfd]" started-at="2020-08-08T09:12:04 EDT" name="setUp" finished-at="2020-08-08T09:12:10 EDT" duration-ms="5817" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="searchOutput()[pri:3, instance:SeleniumGrid.Grid.SeleniumGridGeko$SeleniumTrial@16e7dcfd]" started-at="2020-08-08T09:12:10 EDT" name="searchOutput" finished-at="2020-08-08T09:12:10 EDT" duration-ms="128" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchOutput -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumGrid.Grid.SeleniumGridGeko$SeleniumTrial@16e7dcfd]" started-at="2020-08-08T09:12:10 EDT" name="tearDown" finished-at="2020-08-08T09:12:11 EDT" duration-ms="1112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumGrid.Grid.SeleniumGridGeko$SeleniumTrial -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
